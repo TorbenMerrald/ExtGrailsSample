@@ -93,7 +93,7 @@
       <file leaf-file-name="list_ext.gsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/extfile/list_ext.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="64" selection-start="1645" selection-end="1645" vertical-scroll-proportion="1.0016667">
+            <state line="10" column="10" selection-start="912" selection-end="912" vertical-scroll-proportion="0.07847296">
               <folding />
             </state>
           </provider>
@@ -325,7 +325,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6640549" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -404,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/extfile/list_ext.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="64" selection-start="1645" selection-end="1645" vertical-scroll-proportion="1.0016667">
+        <state line="10" column="10" selection-start="912" selection-end="912" vertical-scroll-proportion="0.07847296">
           <folding />
         </state>
       </provider>
